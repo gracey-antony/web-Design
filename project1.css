@@ -1,0 +1,88 @@
+
+       
+        .logo{
+            font-style: unset;
+            font-weight: 550;
+            font-size: 40px;
+            color: rgba(11, 11, 144, 0.789);
+            margin-top: 45px ;
+        }
+        .home{
+            padding-left: 500px;
+            color:rgba(101, 24, 11, 0.895);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+        }
+        span{
+            padding-right: 20px;
+            color:rgba(101, 24, 11, 0.895) ;
+            margin-left: 45px;
+            margin-top:55px ;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+        } 
+        .btn{
+            background-color: blue;
+            padding: 7px 15px ;
+            color: white;
+            border-radius: 25px; 
+        }
+        body{
+            background-image:url("WhatsApp Image 2025-07-18 at 11.07.53 PM (3).jpeg");
+            background-attachment: fixed ;
+            background-position: center;
+            background-repeat: no-repeat;
+            
+            
+        }
+        .life{
+            height: 235px; 
+            width: 350px;
+            margin-top: 125px;
+            margin-right: 150px;
+            margin-left: 55px;
+        }
+        .go{
+            margin-top: 250px;
+            padding-right: 8px;
+            
+            
+        }
+        .web{
+            font-size: 65px;
+            color: rgba(9, 3, 7, 0.81);
+            margin-top: -76px;
+            margin-left:30px ;
+        }
+        .design{
+            font-size: 65px;
+            color: rgba(20, 3, 30, 0.788);
+            margin-top: -55px;
+            margin-left: 25px;
+        }
+        .p{
+            color: rgb(56, 43, 117);
+            margin-left: 30px;
+            margin-top: 60px;
+        }
+        .btn1{
+            background-color:blue ;
+            padding: 7px 25px;
+            color: white;
+            border-radius: 25px;
+            margin-left: 25;
+        }
+        .page{
+            color: rgba(186, 15, 163, 0.946);
+            margin-top: 55px;
+            margin-left:30px ;
+        }
+        
+    
+    
+   
+        
+        
+
+        
+
